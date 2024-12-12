@@ -51,9 +51,10 @@ To get started with any of my projects, simply:
    ```bash
    which eeglab
    ```
-      If EEGLAB is on the path, this command will return the full path to the eeglab.m file (e.g., C:\path\to\eeglab\functions\eeglab.m).
-		If EEGLAB is not on the path, MATLAB will return a message like '' not found.
-         If EEGLAB is not on the path, you can add it to the MATLAB startup.m file:
+	If EEGLAB is on the path, this command will return the full path to the eeglab.m file (e.g., C:\path\to\eeglab\functions\eeglab.m).
+	If EEGLAB is not on the path, MATLAB will return a message like '' not found.
+
+	If EEGLAB is not on the path, you can add it to the MATLAB startup.m file:
    ```bash
    addpath('C:\path\to\eeglab')
 
