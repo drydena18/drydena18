@@ -26,7 +26,7 @@ Throughout my research and personal projects, I've developed expertise in the fo
 
 ## 🛠 Technologies & Tools
 
-- **R** (mgcv, ggplot2)
+- **R** (mgcv, ggplot2, tidyverse, dplyr, rbokeh, devtools, rayrender, av, boot, hmisc, patchwork, etc.)
 - **Python** (pandas, numpy, scipy, MNE, scikit-learn)
 - **MATLAB**
 - **EEGLAB** (EEG data analysis)
